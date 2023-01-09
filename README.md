@@ -1,5 +1,5 @@
-# MegaManEpicGuitarCollection
-Its Mega Man 1 with new epic soundtrack. 
+# MegaMan Epic Guitar Collection
+Its Mega Man 1 and 2 with new epic soundtrack.
 
 its default Mega Man 1 game, but with some script magic that replaces standart music to epic metal arrangement by Krzysztof Slowikowski.
 All yoou need is to download archive, and start launcher. There are instructions how to configure fceux emulator and Mega Man games.
