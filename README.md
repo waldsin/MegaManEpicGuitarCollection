@@ -11,4 +11,17 @@ https://user-images.githubusercontent.com/46924654/210874775-387941c9-10e7-44c9-
 
 https://github.com/waldsin/MegaManEpicGuitarCollection/assets/46924654/3abe62a4-e7e0-476e-8529-339c5b1526ed
 
+# How to play
+At first, download project
+
+![зображення](https://github.com/waldsin/MegaManEpicGuitarCollection/assets/46924654/70daccdc-4d6b-418e-9ba6-30877610aefb)
+
+then run "launcher.exe"
+
+![зображення](https://github.com/waldsin/MegaManEpicGuitarCollection/assets/46924654/088dea21-3317-4cb3-a63c-68643ed07022)
+
+to configurate emulator there is an instruction
+
+![зображення](https://github.com/waldsin/MegaManEpicGuitarCollection/assets/46924654/1408bcba-2eae-4198-bdfc-684972e1d20d)
+
 
